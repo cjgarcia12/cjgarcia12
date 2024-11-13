@@ -1,7 +1,3 @@
-Here's a draft README for your GitHub profile:
-
----
-
 # Hi there 👋, I'm Christian Garcia!
 
 Welcome to my GitHub profile! I'm an enthusiastic software engineer with a non-traditional background, strong commitment to quality, and hands-on approach to learning. Here, you'll find a showcase of my projects, experiments, and contributions to open-source. My expertise spans front-end development, full-stack projects, and occasional forays into AI and game development.
@@ -15,22 +11,22 @@ Welcome to my GitHub profile! I'm an enthusiastic software engineer with a non-t
 
 ## 📂 Featured Projects
 
-### [TuneScout 🎵](https://github.com/yourusername/TuneScout)
-A music discovery app built using the Spotify API, allowing users to explore music based on their unique tastes.
+### [Twitter Clone Y](https://github.com/cjgarcia12/twitterClone)
+A full-stack social media application built with modern web technologies.
 
-### [Rep4y 💸](https://github.com/yourusername/Rep4y)
+### [Rep4y 💸](https://github.com/cjgarcia12/rep4y)
 A peer-to-peer recurring payment app where users can manage shared subscriptions or group payments. Developed with a team of 5 using the PERN stack.
 
-### [3D Interactive Portfolio 🌐](https://cjgarcia.uno/)
+### [3D Interactive Portfolio 🌐](https://github.com/cjgarcia12/threejs_portfolio)
 An immersive, fully-responsive portfolio showcasing my projects in 3D. Built with Vite, Three.js, and TailwindCSS, this site includes custom UI animations, interactive models, and a dynamic contact form.
 
-### [War Card Game ♠️](https://github.com/yourusername/War-Card-Game)
-A text-based, terminal Java project where players compete against the computer in a traditional game of War.
+### [Retro Weather App](https://github.com/cjgarcia12/weather-app)
+This Retro Weather App provides current weather information based on the user's ZIP code. The design features a nostalgic retro aesthetic, inspired by classic digital interfaces.
 
 ## 🌱 Currently Learning
-- AI Development (interested in working for companies like Roboflow!)
-- Docker for containerizing apps
-- CI/CD with GitHub Actions and Supabase Edge Functions
+- Svelte for Frontend 
+- Vapor for Backend development
+- Data Structures and Algorithms
 - Advanced React Native projects
 
 ## 📈 Recent Experience Highlights
@@ -39,7 +35,7 @@ A text-based, terminal Java project where players compete against the computer i
 - Demonstrated a fast learning curve with new technologies, balancing high-quality results with efficiency.
 
 ## 👔 Career Interests
-I'm open to opportunities in software engineering, particularly in frontend and full-stack roles, and would love to explore positions in AI or tech companies like Roboflow, Pendo, and Arpari.
+I'm open to opportunities in software engineering, particularly in full-stack roles, and would love to explore positions in startup companies with a focus in AI and Technology
 
 ---
 

@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm an enthusiastic software engineer with a non-t
 
 ## 🔧 Technologies & Tools
 
-- **Frontend:** React 18, Vite, React Native, TailwindCSS, Three.js, GSAP
+- **Frontend:** React, Next 15, Vite, React Native, TailwindCSS, Three.js, GSAP
 - **Backend:** Node.js, Express, Spring Boot
 - **Database:** SQLite, PostgreSQL, Supabase
 - **Other Tools:** Docker, Supabase for authentication and database management, GitHub Actions for CI/CD
@@ -28,6 +28,7 @@ This Retro Weather App provides current weather information based on the user's 
 - Vapor for Backend development
 - Data Structures and Algorithms
 - Advanced React Native projects
+- Rust for Backend development
 
 ## 📈 Recent Experience Highlights
 - Delivered high-quality code on schedule, built and integrated APIs, conducted code reviews, and implemented CI/CD pipelines.
